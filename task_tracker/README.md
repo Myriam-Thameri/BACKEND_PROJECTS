@@ -1,18 +1,18 @@
-Task Tracker
+1/Task Tracker
 
-To clone the project type: 
+2/To clone the project type: 
 gh repo clone Myriam-Thameri/BACKEND_PROJECTS
 cd BACKEND_PROJECTS/task_tracker
 
-Features: 
-1/Add, Update, and Delete tasks.
-2/Mark a task as in progress or done.
-3/List all tasks.
-4/List all tasks that are done.
-5/List all tasks that are not done.
-6/List all tasks that are in progress.
+2/Features: 
+*Add, Update, and Delete tasks.
+*Mark a task as in progress or done.
+*List all tasks.
+*List all tasks that are done.
+*List all tasks that are not done.
+*List all tasks that are in progress.
 
-EXAMPLE OF HOW TO USE
+2/EXAMPLE OF HOW TO USE
 
 # Adding a new task
 task-cli add "Buy groceries"
