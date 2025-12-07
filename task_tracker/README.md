@@ -1,5 +1,5 @@
 # Task Tracker
-Link of the project : [https://github.com/Myriam-Thameri/BACKEND_PROJECTS/edit/main/task_tracker](https://roadmap.sh/projects/task-tracker)
+Link of the project : (https://roadmap.sh/projects/task-tracker)
 ## To clone the project type: 
 gh repo clone Myriam-Thameri/BACKEND_PROJECTS
 cd BACKEND_PROJECTS/task_tracker
